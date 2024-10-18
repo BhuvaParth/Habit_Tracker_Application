@@ -9,7 +9,7 @@ export default function Header({ handleLogout, currentRole }) {
           <div className="relative flex h-16 items-center justify-between">
             <div className="flex items-center">
               <Link className="flex items-center">
-                <span className="text-black text-lg font-bold">Project Ecom</span>
+                <span className="text-black text-lg font-bold">Habit Tracker</span>
               </Link>
             </div>
             <div className="flex flex-1 items-center justify-end sm:items-stretch sm:justify-end">
